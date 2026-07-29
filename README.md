@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Remplace le lien ci-dessous par une vraie bannière de ton serveur -->
-  <img src="https://via.placeholder.com/1200x300/1a1a1a/ffffff?text=Banni%C3%A8re+du+Serveur+Minecraft" alt="Bannière du Serveur Minecraft">
+  <img src="[https://via.placeholder.com/1200x300/1a1a1a/ffffff?text=Banni%C3%A8re+du+Serveur+Minecraft](https://i.postimg.cc/RFqSMN3q/Capture-d-ecran-2026-07-29-232212.png)" alt="Bannière du Serveur Minecraft">
 
   <h1>⚔️ Portail Web - Serveur Minecraft HEMMMBOUK INDUSTRIES ⚔️</h1>
 
