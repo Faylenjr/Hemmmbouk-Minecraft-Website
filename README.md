@@ -80,7 +80,7 @@ Envie de voler notre travaille ou juste de tester le site en local ? Voici la ma
 
 ### Instructions
 
-1. **Cloner le dépôt (merci de ne pas casser prod) :**
+1. **Cloner le dépôt :**
    ```bash
    git clone [https://github.com/VOTRE_NOM/hemmmbouk-minecraft-website.git](https://github.com/VOTRE_NOM/hemmmbouk-minecraft-website.git)
    cd hemmmbouk-minecraft-website
