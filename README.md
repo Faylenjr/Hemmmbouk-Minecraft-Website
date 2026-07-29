@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- Remplace le lien ci-dessous par une vraie bannière de ton serveur -->
-  <img src="https://i.postimg.cc/RFqSMN3q/Capture-d-ecran-2026-07-29-232212.png" alt="Bannière du Serveur Minecraft">
+  <a href="https://twitch.tv/HEMMMBOUK" target="_blank">
+    <img src="https://i.postimg.cc/RFqSMN3q/Capture-d-ecran-2026-07-29-232212.png" alt="Bannière du Serveur Minecraft">
+  </a>
 
   <h1>⚔️ Portail Web - Serveur Minecraft HEMMMBOUK INDUSTRIES ⚔️</h1>
 
@@ -10,8 +12,11 @@
     <em>Développé avec Next.js et propulsé à la vitesse de l'éclair par Cloudflare de mort</em>
   </p>
 
-  <!-- Badges technologiques -->
+  <!-- Badges technologiques & Twitch -->
   <p>
+    <a href="https://twitch.tv/HEMMMBOUK" target="_blank">
+      <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Channel" />
+    </a>
     <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
@@ -23,7 +28,11 @@
 
 ## 🌟 Présentation
 
-Ce dépôt contient le code source du site web du serveur Minecraft de la HEMMMBOUK INDUSTRIES. Plus qu'une simple vitrine, c'est une véritable application web conçue pour enrichir l'expérience des joueurs, faciliter la gestion pour le staff et centraliser toutes les informations du serveur.
+> 🎮 **Rejoignez le stream !**
+> Ce serveur est avant tout le point de rassemblement de la communauté Twitch de HEMMMBOUK. 
+> 👉 **[Suivez la chaîne Twitch ici !](https://twitch.tv/HEMMMBOUK)**
+
+Ce dépôt contient le code source du site web du serveur Minecraft de la HEMMMBOUK INDUSTRIES. Plus qu'une simple vitrine ou une pub pour le stream, c'est une véritable application web conçue pour enrichir l'expérience des viewers/joueurs, faciliter la gestion pour le staff et centraliser toutes les informations du serveur.
 
 ## ✨ Fonctionnalités Principales
 
