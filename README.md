@@ -84,3 +84,5 @@ Envie de voler notre travaille ou juste de tester le site en local ? Voici la ma
    ```bash
    git clone [https://github.com/VOTRE_NOM/hemmmbouk-minecraft-website.git](https://github.com/VOTRE_NOM/hemmmbouk-minecraft-website.git)
    cd hemmmbouk-minecraft-website
+   npm install
+   npm run dev
