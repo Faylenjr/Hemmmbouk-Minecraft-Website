@@ -3,11 +3,11 @@
   <!-- Remplace le lien ci-dessous par une vraie bannière de ton serveur -->
   <img src="https://via.placeholder.com/1200x300/1a1a1a/ffffff?text=Banni%C3%A8re+du+Serveur+Minecraft" alt="Bannière du Serveur Minecraft">
 
-  <h1>⚔️ Portail Web - Serveur Minecraft ⚔️</h1>
+  <h1>⚔️ Portail Web - Serveur Minecraft HEMMMBOUK INDUSTRIES ⚔️</h1>
 
   <p>
     <strong>L'interface web officielle, performante et complète de notre serveur.</strong><br>
-    <em>Développé avec Next.js et propulsé à la vitesse de l'éclair par Cloudflare.</em>
+    <em>Développé avec Next.js et propulsé à la vitesse de l'éclair par Cloudflare de mort</em>
   </p>
 
   <!-- Badges technologiques -->
@@ -23,7 +23,7 @@
 
 ## 🌟 Présentation
 
-Ce dépôt contient le code source du site web de notre serveur Minecraft personnel. Plus qu'une simple vitrine, c'est une véritable application web conçue pour enrichir l'expérience des joueurs, faciliter la gestion pour le staff et centraliser toutes les informations du serveur.
+Ce dépôt contient le code source du site web du serveur Minecraft de la HEMMMBOUK INDUSTRIES. Plus qu'une simple vitrine, c'est une véritable application web conçue pour enrichir l'expérience des joueurs, faciliter la gestion pour le staff et centraliser toutes les informations du serveur.
 
 ## ✨ Fonctionnalités Principales
 
@@ -52,7 +52,7 @@ Ce projet est bâti sur des technologies modernes pour garantir des performances
 
 ## 🚀 Installation & Développement Local
 
-Envie de contribuer ou de tester le site en local ? Voici la marche à suivre.
+Envie de voler notre travaille ou de tester le site en local ? Voici la marche à suivre.
 
 ### Prérequis
 *   Node.js (v22 ou supérieure)
