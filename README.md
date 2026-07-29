@@ -44,7 +44,7 @@ Ce dépôt contient le code source du site web du serveur Minecraft de la **HEMM
 
 ---
 
-## ✨ Ce qu'on a codé à 3h du mat' (Fonctionnalités)
+## ✨ Fonctionnalités du site :
 
 Grâce à l'architecture moderne du site, nous proposons une expérience fluide et instantanée :
 
